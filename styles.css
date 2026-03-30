@@ -36,9 +36,9 @@ img {
 }
 
 .sidebar-img {
-    max-width: 100%; /* Ensures image doesn't overflow */
-    height: auto;   /* Maintains aspect ratio */
-    display: block;  /* Removes bottom whitespace */
+    max-width: 100%;
+    height: auto;
+    display: block;
     margin-bottom: 15px;
 }
 
