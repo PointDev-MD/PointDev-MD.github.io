@@ -1,3 +1,3 @@
-# IconicIngrams' website
-Website for myself.
-I display some cool stuff i made here.
+# Point Dev website
+Website forked from Iconic's site.
+I display cool indie games we made here.
