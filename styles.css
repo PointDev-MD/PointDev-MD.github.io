@@ -35,6 +35,13 @@ img {
     height: fit-content;
 }
 
+.sidebar-img {
+    max-width: 100%; /* Ensures image doesn't overflow */
+    height: auto;   /* Maintains aspect ratio */
+    display: block;  /* Removes bottom whitespace */
+    margin-bottom: 15px;
+}
+
 .sidebar a {
     display: block;
     color: #c40f0f;
